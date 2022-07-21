@@ -1,0 +1,3 @@
+{"1": {"name": ["sushi"], "Stock": 34, "Price": 1334.0, "Quantity": "150ml", "Discount": 1.0}}
+{"1": {"name": ["fries"], "Stock": 12, "Price": 454.0, "Quantity": "100ml", "Discount": 0.0}}{"1": {"name": ["shakes"], "Stock": 12, "Price": 123.0, "Quantity": "150ml", "Discount": 1.0}}
+{"1": {"name": ["juices"], "Stock": 23, "Price": 100.0, "Quantity": "100ml", "Discount": 1.0}}
